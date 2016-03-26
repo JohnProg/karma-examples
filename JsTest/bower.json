@@ -1,0 +1,13 @@
+{
+  "name": "Js Test",
+  "description": "",
+  "main": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

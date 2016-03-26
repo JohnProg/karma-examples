@@ -1,0 +1,19 @@
+{
+  "name": "karma-angularjs-test",
+  "description": "",
+  "authors": [
+    "John Machahuay Giraldo"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "devDependencies": {
+    "angular": "~1.4.4",
+    "angular-mocks": "~1.4.4"
+  }
+}

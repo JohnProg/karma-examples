@@ -1,0 +1,17 @@
+{
+  "name": "karma-js-test",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Machahuay Giraldo",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.3",
+    "karma-htmlfile-reporter": "^0.2.2",
+    "karma-mocha": "^0.2.2",
+    "mocha": "^2.4.5"
+  }
+}
